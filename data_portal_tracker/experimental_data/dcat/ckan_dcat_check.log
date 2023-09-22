@@ -1,0 +1,882 @@
+http://101.79.9.128
+DCAT not available!
+TTL catalog not available!
+
+http://103.231.194.8
+DCAT not available!
+TTL catalog not available!
+
+http://116.203.208.239
+DCAT not available!
+TTL catalog not available!
+
+http://129.194.213.24
+DCAT not available!
+TTL catalog not available!
+
+http://130.179.67.140
+DCAT not available!
+TTL catalog not available!
+
+http://185.75.55.180
+DCAT not available!
+TTL catalog not available!
+
+http://192.241.154.193
+DCAT not available!
+TTL catalog not available!
+
+http://3.237.95.96
+DCAT not available!
+TTL catalog not available!
+
+http://84.38.48.220
+DCAT not available!
+TTL catalog not available!
+
+http://ambar.utpl.edu.ec
+DCAT not available!
+TTL catalog not available!
+
+http://aperto.comune.torino.it
+DCAT available!
+TTL catalog not available!
+
+http://catalog.industrie.gov.tn
+DCAT available!
+TTL catalog available!
+
+http://ckan.acs.beniculturali.it
+DCAT not available!
+TTL catalog not available!
+
+http://ckan.project-hobbit.eu
+HTTPSConnectionPool(host='ckan.project-hobbit.eu', port=443): Max retries exceeded with url: /api/3/action/status_show (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)')))
+http://ckan.qrowd.aksw.org
+DCAT not available!
+TTL catalog not available!
+
+http://ckan.restore.ovi.cnr.it
+DCAT not available!
+TTL catalog not available!
+
+http://ckan29.cbwaterhub.ca
+DCAT not available!
+TTL catalog not available!
+
+http://dados.natal.br
+DCAT not available!
+TTL catalog not available!
+
+http://dados.prefeitura.sp.gov.br
+DCAT not available!
+TTL catalog not available!
+
+http://dados.recife.pe.gov.br
+DCAT not available!
+TTL catalog not available!
+
+http://data.rcc.uchicago.edu
+DCAT not available!
+TTL catalog not available!
+
+http://data.treasury.ri.gov
+DCAT not available!
+TTL catalog not available!
+
+http://data.ug
+DCAT not available!
+TTL catalog not available!
+
+http://data.zagreb.hr
+DCAT not available!
+TTL catalog not available!
+
+http://dataportal.saeri.org
+DCAT not available!
+TTL catalog not available!
+
+http://dati.comune.lecce.it
+DCAT available!
+TTL catalog available!
+
+http://dati.comune.matera.it
+DCAT available!
+TTL catalog available!
+
+http://datos.arona.org
+DCAT not available!
+TTL catalog not available!
+
+http://datos.codeandomexico.org
+DCAT not available!
+TTL catalog not available!
+
+http://datosabiertos.fuengirola.es
+DCAT not available!
+TTL catalog not available!
+
+http://datosabiertos.pergamino.gob.ar
+DCAT available!
+TTL catalog available!
+
+http://entropy-opendata.inf.um.es
+DCAT not available!
+TTL catalog not available!
+
+http://goodpa.regione.marche.it
+DCAT not available!
+TTL catalog not available!
+
+http://linkeddatacatalog.dws.informatik.uni-mannheim.de
+DCAT not available!
+TTL catalog not available!
+
+http://opencaribbean.org
+DCAT not available!
+TTL catalog not available!
+
+http://opendata.ayto-caceres.es
+DCAT available!
+TTL catalog not available!
+
+http://opendata.caceres.es
+DCAT available!
+TTL catalog not available!
+
+http://opendata.calstate.edu
+DCAT not available!
+TTL catalog not available!
+
+http://opendata.lisra.jp
+DCAT not available!
+TTL catalog not available!
+
+http://ribes-135.man.poznan.pl:8080
+DCAT not available!
+TTL catalog not available!
+
+http://www.agridata.tn
+DCAT available!
+TTL catalog available!
+
+http://www.daten.rlp.de
+DCAT available!
+TTL catalog available!
+
+http://www.datosabiertos.mendoza.gov.ar
+Expecting value: line 1 column 1 (char 0)
+http://www.openculture.gov.tn
+DCAT available!
+TTL catalog not available!
+
+http://www.opendata.ps
+DCAT not available!
+TTL catalog not available!
+
+https://africaopendata.org
+DCAT available!
+TTL catalog available!
+
+https://api.foodsecurityportal.org
+DCAT not available!
+TTL catalog not available!
+
+https://b2find.eudat.eu
+DCAT not available!
+TTL catalog not available!
+
+https://beta.ckan.org
+DCAT not available!
+TTL catalog not available!
+
+https://cadatacatalog.state.gov
+DCAT not available!
+TTL catalog not available!
+
+https://catalog.data.gov
+DCAT available!
+TTL catalog available!
+
+https://catalogodatos.gub.uy
+DCAT available!
+TTL catalog not available!
+
+https://catalogue.dev.cioosatlantic.ca
+DCAT available!
+TTL catalog available!
+
+https://catalogue.hakai.org
+DCAT available!
+TTL catalog available!
+
+https://cct.opencitieslab.org
+DCAT not available!
+TTL catalog not available!
+
+https://ckan-ecoevo.d4science.org
+DCAT available!
+TTL catalog available!
+
+https://ckan.africadatahub.org
+DCAT not available!
+TTL catalog not available!
+
+https://ckan.americaview.org
+DCAT not available!
+TTL catalog not available!
+
+https://ckan.clarity.cismet.de
+DCAT not available!
+TTL catalog not available!
+
+https://ckan.dev.egov.md
+HTTPSConnectionPool(host='ckan.dev.egov.md', port=443): Max retries exceeded with url: /api/3/action/status_show (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+https://ckan.dewberryanalytics.com
+DCAT available!
+TTL catalog available!
+
+https://ckan.emac.gsfc.nasa.gov
+DCAT not available!
+TTL catalog not available!
+
+https://ckan.grassroots.tools
+DCAT available!
+TTL catalog available!
+
+https://ckan.iotlab.com
+DCAT not available!
+TTL catalog not available!
+
+https://ckan.iotlab.eu
+DCAT not available!
+TTL catalog not available!
+
+https://ckan.meghalayadataportal.com
+DCAT available!
+TTL catalog available!
+
+https://ckan.publishing.service.gov.uk
+Expecting value: line 1 column 1 (char 0)
+https://ckan.smartenschede.nl
+DCAT not available!
+TTL catalog not available!
+
+https://ckan0.cf.opendata.inter.prod-toronto.ca
+DCAT not available!
+TTL catalog not available!
+
+https://ckanprod-alma.ucar.edu
+DCAT not available!
+TTL catalog not available!
+
+https://coj.opencitieslab.org
+DCAT not available!
+TTL catalog not available!
+
+https://cybercommons-data.hpc.okstate.edu
+DCAT not available!
+TTL catalog not available!
+
+https://cybercommons-data.hpcc.okstate.edu
+DCAT not available!
+TTL catalog not available!
+
+https://dados.mg.gov.br
+DCAT not available!
+TTL catalog not available!
+
+https://dados.portoalegre.rs.gov.br
+DCAT not available!
+TTL catalog not available!
+
+https://dados.rs.gov.br
+DCAT not available!
+TTL catalog not available!
+
+https://dados.tce.rs.gov.br
+DCAT not available!
+TTL catalog not available!
+
+https://dadosabertos.cnpq.br
+DCAT not available!
+TTL catalog not available!
+
+https://dadosabertos.tse.jus.br
+DCAT not available!
+TTL catalog not available!
+
+https://dadosabertos.ufms.br
+DCAT not available!
+TTL catalog not available!
+
+https://data-staging.ubdc.ac.uk
+DCAT available!
+TTL catalog available!
+
+https://data.amerigeoss.org
+DCAT available!
+TTL catalog available!
+
+https://data.aurin.org.au
+DCAT not available!
+TTL catalog not available!
+
+https://data.belitung.go.id
+DCAT not available!
+TTL catalog not available!
+
+https://data.birminghamal.gov
+DCAT available!
+TTL catalog available!
+
+https://data.boston.gov
+DCAT available!
+TTL catalog available!
+
+https://data.buenosaires.gob.ar
+DCAT not available!
+TTL catalog not available!
+
+https://data.ca.gov
+DCAT available!
+TTL catalog available!
+
+https://data.capitol.texas.gov
+DCAT not available!
+TTL catalog not available!
+
+https://data.chhs.ca.gov
+DCAT available!
+TTL catalog available!
+
+https://data.ci.newark.nj.us
+DCAT available!
+TTL catalog available!
+
+https://data.cityofdenton.com
+DCAT available!
+TTL catalog available!
+
+https://data.cnra.ca.gov
+DCAT available!
+TTL catalog available!
+
+https://data.code4sa.org
+DCAT not available!
+TTL catalog not available!
+
+https://data.dide.ic.ac.uk
+DCAT not available!
+TTL catalog not available!
+
+https://data.disl.edu
+DCAT not available!
+TTL catalog not available!
+
+https://data.dundeecity.gov.uk
+DCAT available!
+TTL catalog not available!
+
+https://data.ed.gov
+DCAT not available!
+TTL catalog not available!
+
+https://data.eqe-lab.com
+DCAT not available!
+TTL catalog not available!
+
+https://data.go.th
+DCAT not available!
+TTL catalog not available!
+
+https://data.gov.ie
+DCAT available!
+TTL catalog available!
+
+https://data.gov.ro
+DCAT available!
+TTL catalog available!
+
+https://data.gov.sk
+DCAT available!
+TTL catalog available!
+
+https://data.gov.tt
+DCAT not available!
+TTL catalog not available!
+
+https://data.gov.ua
+DCAT available!
+TTL catalog available!
+
+https://data.gv.at/katalog
+DCAT available!
+TTL catalog available!
+
+https://data.halmaherautarakab.go.id
+DCAT not available!
+TTL catalog not available!
+
+https://data.houstontx.gov
+DCAT available!
+TTL catalog available!
+
+https://data.humdata.org
+DCAT available!
+TTL catalog available!
+
+https://data.illinois.gov
+DCAT not available!
+TTL catalog not available!
+
+https://data.kdl.kcl.ac.uk
+DCAT not available!
+TTL catalog not available!
+
+https://data.milwaukee.gov
+DCAT available!
+TTL catalog available!
+
+https://data.montreal.ca
+DCAT available!
+TTL catalog not available!
+
+https://data.nbco.gov.ie
+DCAT available!
+TTL catalog available!
+
+https://data.nhm.ac.uk
+DCAT available!
+TTL catalog available!
+
+https://data.ok.gov
+DCAT available!
+TTL catalog available!
+
+https://data.ontario.ca
+DCAT not available!
+TTL catalog not available!
+
+https://data.opendata.am
+DCAT not available!
+TTL catalog not available!
+
+https://data.openstate.eu
+DCAT available!
+TTL catalog available!
+
+https://data.overheid.nl/data
+DCAT not available!
+TTL catalog available!
+
+https://data.pkc.gov.uk
+DCAT available!
+TTL catalog not available!
+
+https://data.reach-incubator.eu
+DCAT not available!
+TTL catalog not available!
+
+https://data.renfe.com
+DCAT not available!
+TTL catalog not available!
+
+https://data.rsud.tulungagung.go.id
+DCAT not available!
+TTL catalog not available!
+
+https://data.sanantonio.gov
+DCAT available!
+TTL catalog available!
+
+https://data.sanjoseca.gov
+DCAT available!
+TTL catalog available!
+
+https://data.sba.gov
+DCAT not available!
+TTL catalog not available!
+
+https://data.spatialhub.scot
+DCAT available!
+TTL catalog available!
+
+https://data.staging.sba.gov
+DCAT not available!
+TTL catalog not available!
+
+https://data.subak.org
+DCAT available!
+TTL catalog available!
+
+https://data.surrey.ca
+DCAT not available!
+TTL catalog not available!
+
+https://data.tainan.gov.tw
+DCAT not available!
+TTL catalog not available!
+
+https://data.temanggungkab.go.id
+DCAT not available!
+TTL catalog not available!
+
+https://data.ucar.edu
+DCAT not available!
+TTL catalog not available!
+
+https://data.visualisingballarat.org.au
+DCAT available!
+TTL catalog available!
+
+https://data.waterpathogens.org
+DCAT not available!
+TTL catalog not available!
+
+https://data.wprdc.org
+DCAT available!
+TTL catalog available!
+
+https://data.wu.ac.at/portal
+DCAT not available!
+TTL catalog not available!
+
+https://data2.cerdi.edu.au
+DCAT available!
+TTL catalog available!
+
+https://datahub-perovskites.nrel.gov
+DCAT not available!
+TTL catalog not available!
+
+https://datahub.chemcatbio.org
+DCAT not available!
+TTL catalog not available!
+
+https://datahub.duramat.org
+DCAT not available!
+TTL catalog not available!
+
+https://datahub.electrocat.org
+DCAT not available!
+TTL catalog not available!
+
+https://datahub.h2awsm.org
+DCAT not available!
+TTL catalog not available!
+
+https://datahub.hymarc.org
+DCAT not available!
+TTL catalog not available!
+
+https://datamx.io
+DCAT not available!
+TTL catalog not available!
+
+https://dataset.pustakadata.id
+DCAT not available!
+TTL catalog not available!
+
+https://datasets.wri.org
+DCAT not available!
+TTL catalog not available!
+
+https://dataunderground.org
+DCAT not available!
+TTL catalog not available!
+
+https://dati.toscana.it
+DCAT available!
+TTL catalog available!
+
+https://dati.trentino.it
+DCAT available!
+TTL catalog available!
+
+https://datos.alcobendas.org
+DCAT available!
+TTL catalog available!
+
+https://datos.cdmx.gob.mx
+DCAT not available!
+TTL catalog not available!
+
+https://datos.cnbs.gob.hn
+DCAT not available!
+TTL catalog not available!
+
+https://datos.edomex.gob.mx
+DCAT not available!
+TTL catalog not available!
+
+https://datos.gob.ar
+DCAT available!
+TTL catalog not available!
+
+https://datos.gob.bo
+DCAT not available!
+TTL catalog not available!
+
+https://datos.gob.cl
+DCAT available!
+TTL catalog available!
+
+https://datos.gob.do
+DCAT not available!
+TTL catalog not available!
+
+https://datos.icane.es
+DCAT not available!
+TTL catalog not available!
+
+https://datosabiertos.ayto-arganda.es
+DCAT available!
+TTL catalog available!
+
+https://datosabiertos.bogota.gov.co
+DCAT available!
+TTL catalog available!
+
+https://datosabiertos.dphuesca.es
+DCAT not available!
+TTL catalog not available!
+
+https://datosabiertos.malaga.eu
+DCAT available!
+TTL catalog not available!
+
+https://datosabiertos.regiondemurcia.es
+DCAT not available!
+TTL catalog not available!
+
+https://datosabiertos.rivasciudad.es
+DCAT available!
+TTL catalog available!
+
+https://demo.ckan.org
+DCAT not available!
+TTL catalog not available!
+
+https://demo.dev.datopian.com
+DCAT not available!
+TTL catalog not available!
+
+https://discover.data.vic.gov.au
+DCAT not available!
+TTL catalog not available!
+
+https://docs.entsoe.eu
+DCAT not available!
+TTL catalog not available!
+
+https://donnees.ville.montreal.qc.ca
+DCAT available!
+TTL catalog available!
+
+https://edx.netl.doe.gov
+DCAT not available!
+TTL catalog not available!
+
+https://epos-msl.uu.nl
+DCAT not available!
+TTL catalog not available!
+
+https://geodata.gov.gr
+HTTPSConnectionPool(host='geodata.gov.gr', port=443): Max retries exceeded with url: /api/3/action/status_show (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+https://grandest-moissonnage.data4citizen.com
+DCAT available!
+TTL catalog available!
+
+https://haifa.datacity.org.il
+DCAT not available!
+TTL catalog not available!
+
+https://hubofdata.ru
+DCAT not available!
+TTL catalog not available!
+
+https://iatiregistry.org
+DCAT available!
+TTL catalog available!
+
+https://iranopendata.org
+DCAT not available!
+TTL catalog not available!
+
+https://lincolnshire.ckan.io
+DCAT not available!
+TTL catalog not available!
+
+https://maale-adummim.datacity.org.il
+DCAT not available!
+TTL catalog not available!
+
+https://molecular-dynamics.atb.uq.edu.au
+DCAT not available!
+TTL catalog not available!
+
+https://national-grid-admin.ckan.io
+DCAT available!
+TTL catalog not available!
+
+https://netanya.datacity.org.il
+DCAT not available!
+TTL catalog not available!
+
+https://offenedaten.aachen.de
+DCAT not available!
+TTL catalog not available!
+
+https://old.datahub.io
+DCAT available!
+TTL catalog available!
+
+https://open.regina.ca
+DCAT not available!
+TTL catalog not available!
+
+https://opendata-hro.de
+DCAT available!
+TTL catalog available!
+
+https://opendata.comune.bari.it
+DCAT available!
+TTL catalog available!
+
+https://opendata.dumaikota.go.id
+DCAT not available!
+TTL catalog not available!
+
+https://opendata.eawag.ch
+Expecting value: line 1 column 1 (char 0)
+https://opendata.eol.org
+Expecting value: line 2 column 5 (char 5)
+https://opendata.gov.je
+DCAT not available!
+TTL catalog not available!
+
+https://opendata.gov.nt.ca
+DCAT available!
+TTL catalog available!
+
+https://opendata.hasadna.org.il
+DCAT not available!
+TTL catalog not available!
+
+https://opendata.hawaii.gov
+DCAT available!
+TTL catalog available!
+
+https://opendata.hu
+DCAT not available!
+TTL catalog not available!
+
+https://opendata.jena.de
+DCAT not available!
+TTL catalog not available!
+
+https://opendata.leipzig.de
+DCAT not available!
+TTL catalog not available!
+
+https://opendata.nhsbsa.net
+DCAT available!
+TTL catalog available!
+
+https://opendata.reus.cat
+DCAT available!
+TTL catalog available!
+
+https://opendata.sjgov.org
+DCAT available!
+TTL catalog available!
+
+https://opendata.swiss
+DCAT not available!
+TTL catalog available!
+
+https://opendata.terrassa.cat
+DCAT not available!
+TTL catalog not available!
+
+https://opendata.unex.es
+DCAT not available!
+TTL catalog not available!
+
+https://opendatanepal.com
+DCAT not available!
+TTL catalog not available!
+
+https://opingogn.is
+DCAT not available!
+TTL catalog not available!
+
+https://portaldados.ppgau.uff.br
+DCAT not available!
+TTL catalog not available!
+
+https://rdm.inesctec.pt
+DCAT not available!
+TTL catalog not available!
+
+https://satudata.singkawangkota.go.id
+DCAT available!
+TTL catalog available!
+
+https://satudataindonesia.malukuprov.go.id
+DCAT available!
+TTL catalog available!
+
+https://scmb-ckan-dev.research.dc.uq.edu.au
+DCAT not available!
+TTL catalog not available!
+
+https://scmb-ckan.research.dc.uq.edu.au
+DCAT not available!
+TTL catalog not available!
+
+https://stage-data.kimetrica.com
+DCAT not available!
+TTL catalog not available!
+
+https://statistics.ukdataservice.ac.uk
+DCAT available!
+TTL catalog available!
+
+https://thai.emac.gsfc.nasa.gov
+DCAT not available!
+TTL catalog not available!
+
+https://transparenz.karlsruhe.de
+DCAT not available!
+TTL catalog not available!
+
+https://www.civicdata.io
+DCAT not available!
+TTL catalog not available!
+
+https://www.datosabiertos.gob.pa
+DCAT not available!
+TTL catalog not available!
+
+https://www.offenedaten.frankfurt.de
+DCAT available!
+TTL catalog available!
+
+https://www.offenesdatenportal.de
+DCAT available!
+TTL catalog available!
+
+https://www.opendata.nhs.scot
+DCAT not available!
+TTL catalog not available!
+
+https://www.opentourism.net
+DCAT not available!
+TTL catalog not available!
+
+https://www.resourcedata.org
+DCAT available!
+TTL catalog available!
+

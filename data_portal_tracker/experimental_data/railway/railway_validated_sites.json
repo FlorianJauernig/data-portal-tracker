@@ -1,0 +1,34 @@
+{
+    "CKAN": {
+        "https://data.deutschebahn.com": [
+            "<meta name=\"generator\" content=\"ckan"
+        ],
+        "https://data.renfe.com": [
+            "<meta name=\"generator\" content=\"ckan"
+        ]
+    },
+    "OpenDataSoft": {
+        "https://data.sbb.ch": [
+            "BRAND_HOSTNAME: \"opendatasoft.com\"",
+            "ods.core.config",
+            "ods.minimal",
+            "ods.core",
+            "ods.core.form.directives"
+        ],
+        "https://data.sncf.com": [
+            "BRAND_HOSTNAME: \"opendatasoft.com\"",
+            "ods.core.config",
+            "ods.minimal",
+            "ods.core",
+            "ods.core.form.directives"
+        ],
+        "https://opendata.infrabel.be": [
+            "BRAND_HOSTNAME: \"opendatasoft.com\"",
+            "ods.core.config",
+            "ods.minimal",
+            "ods.core",
+            "ods.core.form.directives"
+        ]
+    },
+    "Socrata": {}
+}

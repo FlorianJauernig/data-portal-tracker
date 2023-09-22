@@ -1,0 +1,19 @@
+timestamp,api_request_url,dataset_url,metadata_url,source_url,exception
+2023-08-10 21:43:21,https://data.randwick.nsw.gov.au/api/explore/v2.1/catalog/exports/json,,,,Expecting value: line 1 column 1 (char 0)
+2023-08-10 21:43:27,https://data.randwick.nsw.gov.au/api/explore/v2.1/catalog/exports/json,,,,Expecting value: line 1 column 1 (char 0)
+2023-08-10 21:43:32,https://data.randwick.nsw.gov.au/api/explore/v2.1/catalog/exports/json,,,,Expecting value: line 1 column 1 (char 0)
+2023-08-10 21:49:29,https://mav-technology-geelongvic.opendatasoft.com/api/explore/v2.1/catalog/exports/json,,,,Expecting value: line 1 column 1 (char 0)
+2023-08-10 21:49:34,https://mav-technology-geelongvic.opendatasoft.com/api/explore/v2.1/catalog/exports/json,,,,Expecting value: line 1 column 1 (char 0)
+2023-08-10 21:49:39,https://mav-technology-geelongvic.opendatasoft.com/api/explore/v2.1/catalog/exports/json,,,,Expecting value: line 1 column 1 (char 0)
+2023-08-10 21:50:01,https://navitia.opendatasoft.com/api/explore/v2.1/catalog/exports/json,,,,Expecting value: line 2 column 1 (char 1)
+2023-08-10 21:50:05,https://navitia.opendatasoft.com/api/explore/v2.1/catalog/exports/json,,,,Expecting value: line 2 column 1 (char 1)
+2023-08-10 21:50:10,https://navitia.opendatasoft.com/api/explore/v2.1/catalog/exports/json,,,,Expecting value: line 2 column 1 (char 1)
+2023-08-10 21:51:01,https://opendata-newcastlenswiar.opendatasoft.com/api/explore/v2.1/catalog/exports/json,,,,Expecting value: line 1 column 1 (char 0)
+2023-08-10 21:51:06,https://opendata-newcastlenswiar.opendatasoft.com/api/explore/v2.1/catalog/exports/json,,,,Expecting value: line 1 column 1 (char 0)
+2023-08-10 21:51:11,https://opendata-newcastlenswiar.opendatasoft.com/api/explore/v2.1/catalog/exports/json,,,,Expecting value: line 1 column 1 (char 0)
+2023-08-10 21:52:00,https://opendata.dormagen.de/api/explore/v2.1/catalog/exports/json,,,,"HTTPSConnectionPool(host='opendata.dormagen.de', port=443): Max retries exceeded with url: /api/explore/v2.1/catalog/exports/json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)')))"
+2023-08-10 21:52:04,https://opendata.dormagen.de/api/explore/v2.1/catalog/exports/json,,,,"HTTPSConnectionPool(host='opendata.dormagen.de', port=443): Max retries exceeded with url: /api/explore/v2.1/catalog/exports/json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)')))"
+2023-08-10 21:52:09,https://opendata.dormagen.de/api/explore/v2.1/catalog/exports/json,,,,"HTTPSConnectionPool(host='opendata.dormagen.de', port=443): Max retries exceeded with url: /api/explore/v2.1/catalog/exports/json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)')))"
+2023-08-10 21:54:19,https://prive.data.occitanie.education.gouv.fr/api/explore/v2.1/catalog/exports/json,,,,Expecting value: line 1 column 1 (char 0)
+2023-08-10 21:54:23,https://prive.data.occitanie.education.gouv.fr/api/explore/v2.1/catalog/exports/json,,,,Expecting value: line 1 column 1 (char 0)
+2023-08-10 21:54:27,https://prive.data.occitanie.education.gouv.fr/api/explore/v2.1/catalog/exports/json,,,,Expecting value: line 1 column 1 (char 0)

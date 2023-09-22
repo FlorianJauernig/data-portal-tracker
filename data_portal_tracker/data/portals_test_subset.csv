@@ -1,0 +1,11 @@
+url,api_working,api_software,api_version
+http://dados.recife.pe.gov.br,True,CKAN,2.8.2
+http://data.cookcountyil.gov,True,Socrata,v1.0
+http://opendata.lisra.jp,True,CKAN,2.0.2
+https://acoss.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://albany.demo.socrata.com,True,Socrata,v1.0
+https://data.disl.edu,True,CKAN,2.9.6
+https://data.laregion.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.ville-cesson.fr,True,OpenDataSoft,"['v2.0', 'v2.1']"
+https://datasets.wri.org,True,CKAN,2.4.9
+https://opendata.usac.org,True,Socrata,v1.0

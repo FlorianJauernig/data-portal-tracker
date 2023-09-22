@@ -1,0 +1,10 @@
+url,active,validated,manually_checked_api,suspected_api,api_working,api_version,error_type
+http://opendata.calstate.edu,True,True,,CKAN,True,2.4.0,
+https://data.ed.gov,True,True,,CKAN,True,2.9.9,
+https://data.ox.ac.uk,True,True,,Unknown,,,
+https://data.southampton.ac.uk,True,True,,Unknown,,,
+https://datashare.ed.ac.uk,True,True,,Unknown,,,
+https://deepblue.lib.umich.edu/data,True,True,Unknown,Unknown,,,
+https://stanfordopendata.org,True,True,,Unknown,,,
+https://transparencia.ua.es,True,False,,,,,['SSLError']
+https://ucopendata.netlify.app,True,True,,Unknown,,,

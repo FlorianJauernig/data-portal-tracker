@@ -1,0 +1,706 @@
+url,api_working,api_software,api_version
+http://101.79.9.128,True,CKAN,2.9.4
+http://103.231.194.8,True,CKAN,2.7.7
+http://116.203.208.239,True,CKAN,2.8.2
+http://129.194.213.24,True,CKAN,2.5.2
+http://130.179.67.140,True,CKAN,2.2.1
+http://185.75.55.180,True,CKAN,2.9.5
+http://192.241.154.193,True,CKAN,2.8.0
+http://3.237.95.96,True,CKAN,2.9.3
+http://84.38.48.220,True,CKAN,2.2
+http://ambar.utpl.edu.ec,True,CKAN,2.8.3
+http://aperto.comune.torino.it,True,CKAN,2.8.1
+http://catalog.industrie.gov.tn,True,CKAN,Unknown
+http://ckan.acs.beniculturali.it,True,CKAN,2.4.1
+http://ckan.project-hobbit.eu,True,CKAN,2.6.0b
+http://ckan.qrowd.aksw.org,True,CKAN,2.6.2
+http://ckan.restore.ovi.cnr.it,True,CKAN,2.9.0
+http://ckan29.cbwaterhub.ca,True,CKAN,2.9.7
+http://dados.natal.br,True,CKAN,2.7.3
+http://dados.prefeitura.sp.gov.br,True,CKAN,2.4.1
+http://dados.recife.pe.gov.br,True,CKAN,2.8.2
+http://data.cookcountyil.gov,True,Socrata,v1.0
+http://data.rcc.uchicago.edu,True,CKAN,2.2.1
+http://data.treasury.ri.gov,True,CKAN,2.3
+http://data.ug,True,CKAN,2.5.3
+http://data.zagreb.hr,True,CKAN,2.5.2
+http://dataportal.saeri.org,True,CKAN,2.8.2
+http://dati.comune.lecce.it,True,CKAN,2.6.6
+http://dati.comune.matera.it,True,CKAN,2.6.2
+http://datos.arona.org,True,CKAN,2.4.9
+http://datos.codeandomexico.org,True,CKAN,2.9.7
+http://datosabiertos.fuengirola.es,True,CKAN,2.4.0
+http://datosabiertos.pergamino.gob.ar,True,CKAN,2.7.6
+http://entropy-opendata.inf.um.es,True,CKAN,2.8.1
+http://goodpa.regione.marche.it,True,CKAN,2.2
+http://linkeddatacatalog.dws.informatik.uni-mannheim.de,True,CKAN,2.2.4
+http://opencaribbean.org,True,CKAN,2.6.3
+http://opendata.ayto-caceres.es,True,CKAN,2.7.4
+http://opendata.caceres.es,True,CKAN,2.7.4
+http://opendata.calstate.edu,True,CKAN,2.4.0
+http://opendata.lisra.jp,True,CKAN,2.0.2
+http://ribes-135.man.poznan.pl:8080,True,CKAN,2.8.3
+http://www.agridata.tn,True,CKAN,2.6.6
+http://www.daten.rlp.de,True,CKAN,2.9.9
+http://www.datosabiertos.mendoza.gov.ar,True,CKAN,2.7.6
+http://www.openculture.gov.tn,True,CKAN,2.5.3
+http://www.opendata.ps,True,CKAN,2.9.2
+https://acoss.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://africaopendata.org,True,CKAN,2.8.3
+https://aix-en-provence.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://albany.demo.socrata.com,True,Socrata,v1.0
+https://analisis.datosabiertos.jcyl.es,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://analyzejerseycity.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://angersloiremetropole.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://anglet-opendatapaysbasque.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://anruopendata.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://api.foodsecurityportal.org,True,CKAN,2.9.7
+https://ares-digitalwallonia.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://australiademo.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://auvergne-rhone-alpes-dataeducation.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://b2find.eudat.eu,True,CKAN,2.9.8
+https://ballarat-demo-victoria.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://benchmarkstudy.socrata.com,True,Socrata,v1.0
+https://beta.ckan.org,True,CKAN,2.10.0b0
+https://birdz.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://bologna.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://boulognebillancourt-seineouest.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://bpce.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://breizh.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://bretagne-dataeducation.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://bristol.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://bronx.lehman.cuny.edu,True,Socrata,v1.0
+https://bythenumbers.sco.ca.gov,True,Socrata,v1.0
+https://cachan.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://cadatacatalog.state.gov,True,CKAN,2.9.6
+https://calgary-odp.data.socrata.com,True,Socrata,v1.0
+https://catalog.data.gov,True,CKAN,2.10.1
+https://catalogodatos.gub.uy,True,CKAN,2.9.3
+https://catalogue.dev.cioosatlantic.ca,True,CKAN,2.9.7
+https://catalogue.hakai.org,True,CKAN,2.9.7
+https://cchb-lafibre64-data64.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://cct.opencitieslab.org,True,CKAN,2.9.0a
+https://cdc.socrata.com,True,Socrata,v1.0
+https://celebratingcities.data.socrata.com,True,Socrata,v1.0
+https://centrevaldeloire.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://chateaurouxmetropole.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://chaville-seineouest.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://checkbooknyc.socrata.com,True,Socrata,v1.0
+https://chicago.socrata.com,True,Socrata,v1.0
+https://cityofsalinas.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://civis.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://ckan-ecoevo.d4science.org,True,CKAN,2.6.7
+https://ckan.africadatahub.org,True,CKAN,2.9.0a
+https://ckan.americaview.org,True,CKAN,2.8.4
+https://ckan.clarity.cismet.de,True,CKAN,2.9.0a
+https://ckan.dev.egov.md,True,CKAN,2.9.4
+https://ckan.dewberryanalytics.com,True,CKAN,2.9.7
+https://ckan.emac.gsfc.nasa.gov,True,CKAN,2.8.3
+https://ckan.grassroots.tools,True,CKAN,2.8.2
+https://ckan.iotlab.com,True,CKAN,2.10.0
+https://ckan.iotlab.eu,True,CKAN,2.10.0
+https://ckan.meghalayadataportal.com,True,CKAN,2.10.1
+https://ckan.publishing.service.gov.uk,True,CKAN,Unknown
+https://ckan.smartenschede.nl,True,CKAN,2.8.5
+https://ckan0.cf.opendata.inter.prod-toronto.ca,True,CKAN,2.9.9
+https://ckanprod-alma.ucar.edu,True,CKAN,2.9.9
+https://cloudbirst.my.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://cnav.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://codeforanchorage.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://codeforcary.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://cohesiondata.ec.europa.eu,True,Socrata,v1.0
+https://coj.opencitieslab.org,True,CKAN,2.9.0a
+https://colombia-mintic.data.socrata.com,True,Socrata,v1.0
+https://color-big-header-theme-discovery.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://cookcounty.socrata.com,True,Socrata,v1.0
+https://corbeil-essonnes-grandparissud.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://cstx.data.socrata.com,True,Socrata,v1.0
+https://cthru.data.socrata.com,True,Socrata,v1.0
+https://cudunkerque.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://culture.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://cybercommons-data.hpc.okstate.edu,True,CKAN,2.8.2
+https://cybercommons-data.hpcc.okstate.edu,True,CKAN,2.8.2
+https://dadesobertes.fgc.cat,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://dados.mg.gov.br,True,CKAN,2.9.5
+https://dados.portoalegre.rs.gov.br,True,CKAN,2.7.2
+https://dados.rs.gov.br,True,CKAN,2.5.2
+https://dados.tce.rs.gov.br,True,CKAN,2.8.2
+https://dadosabertos.cnpq.br,True,CKAN,2.8.0
+https://dadosabertos.tse.jus.br,True,CKAN,2.9.3
+https://dadosabertos.ufms.br,True,CKAN,2.9.5
+https://dark-big-header-alternative-theme-discovery.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://dashboardcovid.trial.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data-staging.ubdc.ac.uk,True,CKAN,2.9.9
+https://data.82numerique.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.agen.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.agglo-carene.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.ajman.ae,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.albanyny.gov,True,Socrata,v1.0
+https://data.ameli.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.amerigeoss.org,True,CKAN,2.8.2
+https://data.ampmetropole.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.angers.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.artisanat.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.aurin.org.au,True,CKAN,2.9.9
+https://data.austintexas.gov,True,Socrata,v1.0
+https://data.ballarat.vic.gov.au,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.belitung.go.id,True,CKAN,2.8.4
+https://data.bep.be,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.birminghamal.gov,True,CKAN,2.7.12
+https://data.blois.agglopolys.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.bloomington.in.gov,True,Socrata,v1.0
+https://data.bmcc.nsw.gov.au,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.boston.gov,True,CKAN,2.7.12
+https://data.bourgesplus.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.bretagne.bzh,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.bs.ch,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.buenosaires.gob.ar,True,CKAN,2.9.8
+https://data.ca.gov,True,CKAN,2.7.12
+https://data.calgary.ca,True,Socrata,v1.0
+https://data.camden.nsw.gov.au,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.campbelltown.nsw.gov.au,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.cannes.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.capatlantique.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.capitol.texas.gov,True,CKAN,2.8.2
+https://data.casey.vic.gov.au,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.cdc.gov,True,Socrata,v1.0
+https://data.centrevaldeloire.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.chateauroux-metropole.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.chattlibrary.org,True,Socrata,v1.0
+https://data.chhs.ca.gov,True,CKAN,2.7.12
+https://data.ci.newark.nj.us,True,CKAN,2.7.12
+https://data.cincinnati-oh.gov,True,Socrata,v1.0
+https://data.cityofchicago.org,True,Socrata,v1.0
+https://data.cityofdenton.com,True,CKAN,2.7.12
+https://data.cityofevanston.org,True,Socrata,v1.0
+https://data.cityofgainesville.org,True,Socrata,v1.0
+https://data.cnra.ca.gov,True,CKAN,2.7.12
+https://data.code4sa.org,True,CKAN,2.8.4
+https://data.colorado.gov,True,Socrata,v1.0
+https://data.combs-la-ville.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.corangamite.vic.gov.au,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.coudray-montceaux.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.cstx.gov,True,Socrata,v1.0
+https://data.ct.gov,True,Socrata,v1.0
+https://data.culture.gouv.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.culturecommunication.gouv.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.culvercity.org,True,Socrata,v1.0
+https://data.dide.ic.ac.uk,True,CKAN,2.9.0
+https://data.disl.edu,True,CKAN,2.9.6
+https://data.drees.solidarites-sante.gouv.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.dundeecity.gov.uk,True,CKAN,2.7.5
+https://data.dunkerque-agglo.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.economie.gouv.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.ed.gov,True,CKAN,2.9.9
+https://data.edmonton.ca,True,Socrata,v1.0
+https://data.education.gouv.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.eindhoven.nl,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.enedis.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.enseignementsup-recherche.gouv.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.eqe-lab.com,True,CKAN,2.10.0
+https://data.erdf.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.etiolles.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.eurelien.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.explore.star.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.fairfieldcity.nsw.gov.au,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.fleurysurorne.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.fortworthtexas.gov,True,Socrata,v1.0
+https://data.frankston.vic.gov.au,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.gers.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.go.th,True,CKAN,2.8.3
+https://data.gouv.nc,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.gov.ie,True,CKAN,2.8.12
+https://data.gov.ro,True,CKAN,2.8.3
+https://data.gov.sk,True,CKAN,2.2.3
+https://data.gov.tt,True,CKAN,2.8.3
+https://data.gov.ua,True,CKAN,2.7.2
+https://data.grandparissud.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.grandpoitiers.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.gv.at/katalog,True,CKAN,2.9.9
+https://data.halmaherautarakab.go.id,True,CKAN,2.9.8
+https://data.hartford.gov,True,Socrata,v1.0
+https://data.haute-garonne.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.hauts-de-france.education.gouv.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.hawkesbury.nsw.gov.au,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.honolulu.gov,True,Socrata,v1.0
+https://data.houstontx.gov,True,CKAN,2.9.9
+https://data.humdata.org,True,CKAN,2.9.9
+https://data.idelis.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.iledefrance-mobilites.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.iledefrance.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.illinois.gov,True,CKAN,2.7.4
+https://data.iowa.gov,True,Socrata,v1.0
+https://data.issy.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.jerseycitynj.gov,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.kcmo.org,True,Socrata,v1.0
+https://data.kdl.kcl.ac.uk,True,CKAN,2.8.0b
+https://data.kingcounty.gov,True,Socrata,v1.0
+https://data.lacity.org,True,Socrata,v1.0
+https://data.lafibre64.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.lakemac.com.au,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.laregion.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.larochesuryon.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.le64.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.leicester.gov.uk,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.liverpool.nsw.gov.au,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.loire-atlantique.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.longbeach.gov,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.maine-et-loire.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.mairie-ris-orangis.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.maitland.nsw.gov.au,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.maryland.gov,True,Socrata,v1.0
+https://data.maugescommunaute.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.melbourne.vic.gov.au,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.memphistn.gov,True,Socrata,v1.0
+https://data.meudon.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.michigan.gov,True,Socrata,v1.0
+https://data.milwaukee.gov,True,CKAN,2.7.12
+https://data.mo.gov,True,Socrata,v1.0
+https://data.moissy-cramayel.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.montgomerycountymd.gov,True,Socrata,v1.0
+https://data.montgomeryschoolsmd.org,True,Socrata,v1.0
+https://data.montreal.ca,True,CKAN,2.9.9
+https://data.montreuil.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.mulhouse-alsace.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.namur.be,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.nantesmetropole.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.nashville.gov,True,Socrata,v1.0
+https://data.nbco.gov.ie,True,CKAN,2.9.8
+https://data.nccourts.gov,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.nhm.ac.uk,True,CKAN,2.9.9.1
+https://data.nimes-metropole.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.normandie.education.gouv.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.ny.gov,True,Socrata,v1.0
+https://data.oaklandca.gov,True,Socrata,v1.0
+https://data.occitanie.education.gouv.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.ofgl.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.ojp.usdoj.gov,True,Socrata,v1.0
+https://data.ok.gov,True,CKAN,2.7.12
+https://data.ontario.ca,True,CKAN,2.9.7
+https://data.opendata.am,True,CKAN,Unknown
+https://data.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.openstate.eu,True,CKAN,2.8.3
+https://data.oregon.gov,True,Socrata,v1.0
+https://data.orleans-metropole.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.overheid.nl/data,True,CKAN,2.8.2
+https://data.paysdelaloire.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.penrith.city,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.pkc.gov.uk,True,CKAN,2.7.7
+https://data.princegeorgescountymd.gov,True,Socrata,v1.0
+https://data.providenceri.gov,True,Socrata,v1.0
+https://data.randwick.nsw.gov.au,True,OpenDataSoft,"['v2.0', 'v2.1']"
+https://data.ratp.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.reach-incubator.eu,True,CKAN,2.7.2
+https://data.redmond.gov,True,Socrata,v1.0
+https://data.regionreunion.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.renfe.com,True,CKAN,2.8.2
+https://data.rennesmetropole.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.richmondgov.com,True,Socrata,v1.0
+https://data.roseville.ca.us,True,Socrata,v1.0
+https://data.rsud.tulungagung.go.id,True,CKAN,2.9.2
+https://data.saint-maur.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.saintry-sur-seine.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.sanantonio.gov,True,CKAN,2.7.12
+https://data.sanjoseca.gov,True,CKAN,2.7.12
+https://data.sarthe.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.savigny-le-temple.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.sba.gov,True,CKAN,2.9.2
+https://data.sbb.ch,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.seattle.gov,True,Socrata,v1.0
+https://data.seineouest.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.sicoval.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.smcgov.org,True,Socrata,v1.0
+https://data.sncf.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.somervillema.gov,True,Socrata,v1.0
+https://data.sonomacounty.ca.gov,True,Socrata,v1.0
+https://data.spatialhub.scot,True,CKAN,2.9.5
+https://data.stad.gent,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.staging.sba.gov,True,CKAN,2.9.2
+https://data.stmalo-agglomeration.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.strasbourg.eu,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.strathcona.ca,True,Socrata,v1.0
+https://data.subak.org,True,CKAN,2.9.5
+https://data.surrey.ca,True,CKAN,2.8.10
+https://data.tainan.gov.tw,True,CKAN,2.7.3
+https://data.temanggungkab.go.id,True,CKAN,2.9.7
+https://data.teo-paysdelaloire.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.tg.ch,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.toulouse-metropole.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.tours-metropole.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.townofcary.org,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.ucar.edu,True,CKAN,2.9.9
+https://data.univ-evry.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.usaid.gov,True,Socrata,v1.0
+https://data.val2c.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.valdeloirenumerique.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.vendee.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.vermont.gov,True,Socrata,v1.0
+https://data.ville-bondoufle.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.ville-cesson.fr,True,OpenDataSoft,"['v2.0', 'v2.1']"
+https://data.ville-lieusaint.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.ville-soissons.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.villedavray.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.virginia.gov,True,Socrata,v1.0
+https://data.visualisingballarat.org.au,True,CKAN,2.9.5
+https://data.wa.gov,True,Socrata,v1.0
+https://data.waterpathogens.org,True,CKAN,2.8.3
+https://data.weho.org,True,Socrata,v1.0
+https://data.winnipeg.ca,True,Socrata,v1.0
+https://data.wollondilly.nsw.gov.au,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.wpcouncils.nsw.gov.au,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://data.wprdc.org,True,CKAN,2.10.0
+https://data.wu.ac.at/portal,True,CKAN,2.8.3
+https://data2.cerdi.edu.au,True,CKAN,2.9.5
+https://data64.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://datacatalog.cookcountyil.gov,True,Socrata,v1.0
+https://datacenter.data.socrata.com,True,Socrata,v1.0
+https://datacorsica.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://datadiscovery.nlm.nih.gov,True,Socrata,v1.0
+https://dataeducation.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://datahub-perovskites.nrel.gov,True,CKAN,2.9.5
+https://datahub.chemcatbio.org,True,CKAN,2.8.2
+https://datahub.duramat.org,True,CKAN,2.8.2
+https://datahub.electrocat.org,True,CKAN,2.8.2
+https://datahub.h2awsm.org,True,CKAN,2.8.2
+https://datahub.hymarc.org,True,CKAN,2.9.6
+https://datahub.transportation.gov,True,Socrata,v1.0
+https://datamx.io,True,CKAN,2.9.7
+https://datanova.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://dataratp.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://dataratp2.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://dataset.pustakadata.id,True,CKAN,2.9.5
+https://datasets.wri.org,True,CKAN,2.4.9
+https://datasncf.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://datasource.kapsarc.org,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://datastro.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://dataunderground.org,True,CKAN,2.8.3
+https://datavaccin-covid.ameli.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://dataviz-haute-garonne.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://daten.sg.ch,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://daten.stadt.sg.ch,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://dati.lombardia.it,True,Socrata,v1.0
+https://dati.toscana.it,True,CKAN,2.8.3
+https://dati.trentino.it,True,CKAN,2.5.2
+https://datos.alcobendas.org,True,CKAN,2.9.7
+https://datos.cdmx.gob.mx,True,CKAN,2.10.0a
+https://datos.cnbs.gob.hn,True,CKAN,2.9.4
+https://datos.edomex.gob.mx,True,CKAN,2.3
+https://datos.gob.ar,True,CKAN,2.7.6
+https://datos.gob.bo,True,CKAN,2.6.0
+https://datos.gob.cl,True,CKAN,2.8.3
+https://datos.gob.do,True,CKAN,2.6.2
+https://datos.icane.es,True,CKAN,2.0
+https://datosabiertos.ayto-arganda.es,True,CKAN,2.8.7
+https://datosabiertos.bogota.gov.co,True,CKAN,2.8.1
+https://datosabiertos.dipcas.es,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://datosabiertos.dphuesca.es,True,CKAN,2.3
+https://datosabiertos.malaga.eu,True,CKAN,2.8.4
+https://datosabiertos.regiondemurcia.es,True,CKAN,2.6.2
+https://datosabiertos.rivasciudad.es,True,CKAN,2.9.5
+https://demo.ckan.org,True,CKAN,2.9.9
+https://demo.dev.datopian.com,True,CKAN,2.9.9
+https://demography.osbm.nc.gov,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://dgal.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://dgefp.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://digitalwallonia.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://dilaamf.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://discover.data.vic.gov.au,True,CKAN,2.10.1
+https://discovercorona.data.socrata.com,True,Socrata,v1.0
+https://discovery.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://discovery.outscale-euw2.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://docs.entsoe.eu,True,CKAN,2.9.7
+https://documentation-resources.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://donnees.grandchambery.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://donnees.ville.montreal.qc.ca,True,CKAN,2.9.9
+https://dormagen.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://dot.demo.socrata.com,True,Socrata,v1.0
+https://e-agre.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://edmonton.socrata.com,True,Socrata,v1.0
+https://edx.netl.doe.gov,True,CKAN,2.9.0a
+https://eindhoven.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://enedis.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://enseignement-agricole.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://epn-agglo.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://epos-msl.uu.nl,True,CKAN,2.9.5
+https://equipements.sports.gouv.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://erdf.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://eurometrostrasbourg.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://evergreen.data.socrata.com,True,Socrata,v1.0
+https://evrycourcouronnes-grandparissud.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://fgc.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://finances.worldbank.org,True,Socrata,v1.0
+https://finistere.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://fluvius.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://fmes.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://fortlauderdale.data.socrata.com,True,Socrata,v1.0
+https://fos-sur-mer.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://fpassaniti.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://frankston-mav-technology-geelongvic.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://geelongvic.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://geodata.gov.gr,True,CKAN,2.2.1
+https://gijon.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://gnb.socrata.com,True,Socrata,v1.0
+https://gpseo.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://grand-est-dataeducation.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://grandchambery.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://grandest-moissonnage.data4citizen.com,True,CKAN,2.8.7
+https://grandparissud.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://grandpoitiers.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://gucci-kering-group.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://hackomaha.socrata.com,True,Socrata,v1.0
+https://haifa.datacity.org.il,True,CKAN,2.8.12
+https://hasparren-opendatapaysbasque.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://hautespyrenees.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://health.data.ny.gov,True,Socrata,v1.0
+https://healthdata.gov,True,Socrata,v1.0
+https://healthdata.nj.gov,True,Socrata,v1.0
+https://hospitalet-prod.demo.eu.socrata.com,True,Socrata,v1.0
+https://hospitalet.demo.eu.socrata.com,True,Socrata,v1.0
+https://hubofdata.ru,True,CKAN,2.9.9
+https://ian.my.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://iatiregistry.org,True,CKAN,2.9.8
+https://inai.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://info-financiere.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://inforegio.azure-westeurope-prod.socrata.com,True,Socrata,v1.0
+https://infrabel.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://iranopendata.org,True,CKAN,2.9.2
+https://isoc.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://jcyl.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://jmorel.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://kapsarc.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://kering-group.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://kingcounty.socrata.com,True,Socrata,v1.0
+https://lareunion.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://leicester.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://linc.osbm.nc.gov,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://lincolnshire.ckan.io,True,CKAN,2.6.6
+https://lisses-grandparissud.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://liverpool-city-council-westernparklands.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://loireatlantique.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://maale-adummim.datacity.org.il,True,CKAN,2.8.12
+https://mairie-bastia-datacorsica.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://mannheim.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://mav-technology-geelongvic.opendatasoft.com,True,OpenDataSoft,"['v2.0', 'v2.1']"
+https://mchui.demo.eu.socrata.com,True,Socrata,v1.0
+https://melbournetestbed.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://mesaaz.data.socrata.com,True,Socrata,v1.0
+https://michigan.data.socrata.com,True,Socrata,v1.0
+https://molecular-dynamics.atb.uq.edu.au,True,CKAN,2.10.1
+https://montreuil.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://mulhouse.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://namur.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://nandy-grandparissud.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://nantesmetropole.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://national-grid-admin.ckan.io,True,CKAN,2.8.7
+https://navitia.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://ncosbm.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://netanya.datacity.org.il,True,CKAN,2.8.12
+https://nienetworks.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://nihr.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://northernpowergrid.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://ntxapps.demo.socrata.com,True,Socrata,v1.0
+https://nuevoleon.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://observa.gijon.es,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://occitanie.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://oddc-datacorsica.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://odre.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://offenedaten.aachen.de,True,CKAN,2.9.2
+https://old.datahub.io,True,CKAN,2.6.6
+https://open.regina.ca,True,CKAN,2.9.7
+https://open.urssaf.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata-corse-outremer.edf.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata-corse.edf.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata-guadeloupe.edf.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata-guyane.edf.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata-hro.de,True,CKAN,2.9.5
+https://opendata-iles-ponant.edf.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata-martinique.edf.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata-newcastlenswiar.opendatasoft.com,True,OpenDataSoft,"['v2.0', 'v2.1']"
+https://opendata-reunion.edf.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.afd.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.agenceore.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.agglo-pau.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.aude.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.bordeaux-metropole.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.brest-metropole.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.brussel.be,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.brussels.be,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.bruxelles.be,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.caissedesdepots.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.camden.gov.uk,True,Socrata,v1.0
+https://opendata.cc-lacqorthez.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.cityofhenderson.com,True,Socrata,v1.0
+https://opendata.comune.bari.it,True,CKAN,2.6.8
+https://opendata.comune.bologna.it,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.datainfogreffe.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.dormagen.de,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.doubs.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.dumaikota.go.id,True,CKAN,2.8.4
+https://opendata.eawag.ch,True,CKAN,2.8.8
+https://opendata.edf.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.elia.be,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.eol.org,True,CKAN,Unknown
+https://opendata.fcc.gov,True,Socrata,v1.0
+https://opendata.fcgov.com,True,Socrata,v1.0
+https://opendata.finistere.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.fluvius.be,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.gov.je,True,CKAN,2.7.4
+https://opendata.gov.nt.ca,True,CKAN,2.9.8
+https://opendata.grdf.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.ha-py.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.hasadna.org.il,True,CKAN,2.8.12
+https://opendata.hauts-de-seine.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.hawaii.gov,True,CKAN,2.7.12
+https://opendata.howardcountymd.gov,True,Socrata,v1.0
+https://opendata.hu,True,CKAN,2.0
+https://opendata.icann.org,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.infrabel.be,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.isere.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.jena.de,True,CKAN,2.8.7
+https://opendata.leipzig.de,True,CKAN,2.2.3b
+https://opendata.liege.be,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.lillemetropole.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.maryland.gov,True,Socrata,v1.0
+https://opendata.nhsbsa.net,True,CKAN,2.8.2
+https://opendata.paris.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.paris.fr.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.potsdam.de,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.ramseycounty.us,True,Socrata,v1.0
+https://opendata.reus.cat,True,CKAN,2.8.6
+https://opendata.rhein-kreis-neuss.de,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.roubaix.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.saemes.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.sandag.org,True,Socrata,v1.0
+https://opendata.sjgov.org,True,CKAN,2.7.12
+https://opendata.socrata.com,True,Socrata,v1.0
+https://opendata.soregies.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.srd-energies.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.stif.info,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.swiss,True,CKAN,2.8.10
+https://opendata.swisscom.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.terrassa.cat,True,CKAN,2.8.12
+https://opendata.tourcoing.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.townofmorrisville.org,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.tpg.ch,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.umea.se,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.unex.es,True,CKAN,2.9.3
+https://opendata.usac.org,True,Socrata,v1.0
+https://opendata.utah.gov,True,Socrata,v1.0
+https://opendata.vancouver.ca,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.vert-saint-denis.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendata.wuerzburg.de,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendatagrdf.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendatakingston.cityofkingston.ca,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opendatanepal.com,True,CKAN,2.8.10
+https://opendataumea.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opengov.cityofdubuque.org,True,Socrata,v1.0
+https://openkingston.cityofkingston.ca,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://openkingston.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://opennassau.nassaucountyny.gov,True,Socrata,v1.0
+https://opingogn.is,True,CKAN,2.5.2
+https://orleansmetropole.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://parisdata.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://paysdelaloire.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://performance.seattle.gov,True,Socrata,v1.0
+https://performance.smcgov.org,True,Socrata,v1.0
+https://performance.westsussex.gov.uk,True,Socrata,v1.0
+https://performanceseattle.demo.socrata.com,True,Socrata,v1.0
+https://piercecounty.data.socrata.com,True,Socrata,v1.0
+https://portaldados.ppgau.uff.br,True,CKAN,2.9.4
+https://porto-vecchio.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://potsdam.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://ppival.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://prc-digitalwallonia.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://privado-spms.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://prive.data.occitanie.education.gouv.fr,True,OpenDataSoft,"['v2.0', 'v2.1']"
+https://ptsd-va.data.socrata.com,True,Socrata,v1.0
+https://public.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://rdm.inesctec.pt,True,CKAN,2.5.2
+https://rdw.azure-westeurope-prod.socrata.com,True,Socrata,v1.0
+https://rec-stif.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://regionguadeloupe.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://ressources.data.sncf.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://saemes.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://saint-jean-de-luz-opendatapaysbasque.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://saint-louis-agglo.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://saintgermainlescorbeil-grandparissud.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://saintmande.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://sandbox.demo.socrata.com,True,Socrata,v1.0
+https://sarthe.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://satudata.singkawangkota.go.id,True,CKAN,2.9.5
+https://satudataindonesia.malukuprov.go.id,True,CKAN,2.9.5
+https://sbb.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://scmb-ckan-dev.research.dc.uq.edu.au,True,CKAN,2.9.7
+https://scmb-ckan.research.dc.uq.edu.au,True,CKAN,2.10.1
+https://seineouest.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://sevres-seineouest.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://sharefulton.fultoncountyga.gov,True,Socrata,v1.0
+https://smartregionidf.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://snudot.data.socrata.com,True,Socrata,v1.0
+https://soda.demo.socrata.com,True,Socrata,v1.0
+https://southerngrampians.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://spenergynetworks.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://spi-digitalwallonia.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://splc.demo.socrata.com,True,Socrata,v1.0
+https://spms.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://sports-sgsocialgouv.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://srd.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://stage-data.kimetrica.com,True,CKAN,2.7.2
+https://stateofdelaware.data.socrata.com,True,Socrata,v1.0
+https://statistics.ukdataservice.ac.uk,True,CKAN,2.9.5
+https://stgallen.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://stories-monitoring.demo.eu.socrata.com,True,Socrata,v1.0
+https://stpdp-grandparissud.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://swisscom.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://swisspost.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://thai.emac.gsfc.nasa.gov,True,CKAN,2.8.3
+https://tompsc.data.socrata.com,True,Socrata,v1.0
+https://tourisme62.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://toursmetropole.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://townofcary.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://transparencia.sns.gov.pt,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://transparenz.karlsruhe.de,True,CKAN,2.9.5
+https://transport.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://tuscaloosa.data.socrata.com,True,Socrata,v1.0
+https://twisto.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://tyler.partner.socrata.com,True,Socrata,v1.0
+https://tylertech.data.socrata.com,True,Socrata,v1.0
+https://ukpowernetworks.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://univevry.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://usc.data.socrata.com,True,Socrata,v1.0
+https://valencia.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://valenciennesmetro.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://vancouver.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://vanves-seineouest.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://westernparklands.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://wuerzburg.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://www.boamp.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://www.bodacc.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://www.chattadata.org,True,Socrata,v1.0
+https://www.civicdata.io,True,CKAN,2.2.1
+https://www.connectgh.com.au,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://www.dallasopendata.com,True,Socrata,v1.0
+https://www.data.act.gov.au,True,Socrata,v1.0
+https://www.data.corsica,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://www.data.gov.bh,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://www.data.grigny91.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://www.data.va.gov,True,Socrata,v1.0
+https://www.dati.friuliveneziagiulia.it,True,Socrata,v1.0
+https://www.datos.gov.co,True,Socrata,v1.0
+https://www.datosabiertos.gob.pa,True,CKAN,2.9.7
+https://www.fabriquenumeriquedupasse.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://www.geelongdataexchange.com.au,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://www.herault-data.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://www.journal-officiel.gouv.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://www.odwb.be,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://www.offenedaten.frankfurt.de,True,CKAN,2.9.7
+https://www.offenesdatenportal.de,True,CKAN,2.8.2
+https://www.opendata-paysbasque.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://www.opendata.corsica,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://www.opendata.nhs.scot,True,CKAN,2.8.4
+https://www.opendata56.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://www.opentourism.net,True,CKAN,2.9.7
+https://www.projets-environnement.gouv.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://www.resourcedata.org,True,CKAN,2.7.11
+https://zabal-agriculture.opendata-paysbasque.fr,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"
+https://zastrugis.my.opendatasoft.com,True,OpenDataSoft,"['v1.0', 'v2.0', 'v2.1']"

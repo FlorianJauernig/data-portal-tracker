@@ -1,0 +1,28 @@
+Skipping inactive portals...
+Portal 1/9: http://opendata.calstate.edu
+CKAN markers found
+CKAN API working
+Portal 2/9: https://data.ed.gov
+CKAN markers found
+CKAN API working
+Portal 3/9: https://data.ox.ac.uk
+Portal 4/9: https://data.southampton.ac.uk
+Portal 5/9: https://datashare.ed.ac.uk
+Portal 6/9: https://deepblue.lib.umich.edu/data
+Unknown portal was manually added, skipping search for markers
+Portal 7/9: https://stanfordopendata.org
+Portal 8/9: https://transparencia.ua.es
+Portal 9/9: https://ucopendata.netlify.app
+Skipping inactive portals...
+
+Portals with detected CKAN markers: 2
+Portals with a manually added CKAN API endpoint: 0
+Portals with a working CKAN API: 2
+
+Portals with detected OpenDataSoft markers: 0
+Portals with a manually added OpenDataSoft API endpoint: 0
+Portals with a working OpenDataSoft API: 0
+
+Portals with detected Socrata markers: 0
+Portals with a manually added Socrata API endpoint: 0
+Portals with a working Socrata API: 0

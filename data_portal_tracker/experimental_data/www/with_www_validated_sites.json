@@ -1,0 +1,308 @@
+{
+    "CKAN": {
+        "http://www.agridata.tn": [
+            "img/ckan.svg",
+            "<meta name=\"generator\" content=\"ckan",
+            "ckan.ico"
+        ],
+        "http://www.data.treasury.ri.gov": [
+            ">CKAN API</a>",
+            "ckan-footer-logo",
+            "<meta name=\"generator\" content=\"ckan",
+            "ckan.ico"
+        ],
+        "http://www.data.ug": [
+            "<meta name=\"generator\" content=\"ckan",
+            "ckan.ico"
+        ],
+        "http://www.daten.rlp.de": [
+            "ckan-footer-logo",
+            "<meta name=\"generator\" content=\"ckan"
+        ],
+        "http://www.datosabiertos.mendoza.gov.ar": [
+            "<meta name=\"generator\" content=\"ckan"
+        ],
+        "http://www.governoaberto.sp.gov.br": [
+            "wpckan_dataset"
+        ],
+        "http://www.nosdonnees.fr": [
+            "<meta name=\"generator\" content=\"ckan",
+            "ckan.ico"
+        ],
+        "http://www.openculture.gov.tn": [
+            "ckan-footer-logo",
+            "<meta name=\"generator\" content=\"ckan",
+            "href=\"/fanstatic/ckanext-harvest"
+        ],
+        "http://www.opendata.ps": [
+            "<a href=\"http://docs.ckan.org/en/2.9/api/\">CKAN API</a>",
+            ">CKAN API</a>",
+            "ckan-footer-logo",
+            "<meta name=\"generator\" content=\"ckan",
+            "ckan.ico"
+        ],
+        "https://www.civicdata.io": [
+            ">CKAN API</a>",
+            "ckan-footer-logo",
+            "<meta name=\"generator\" content=\"ckan"
+        ],
+        "https://www.dados.mg.gov.br": [
+            "ckan-footer-logo",
+            "<meta name=\"generator\" content=\"ckan",
+            "ckan.ico"
+        ],
+        "https://www.data.brisbane.qld.gov.au": [
+            "img/ckan.svg",
+            "<form id=\"ckan-dataset-search\"",
+            "<span>Powered by</span>",
+            "alt=\"CKAN\""
+        ],
+        "https://www.data.gv.at": [
+            "<a id=\"ckan_de\"",
+            "<a id=\"ckan_en\""
+        ],
+        "https://www.data.illinois.gov": [
+            "<meta name=\"generator\" content=\"ckan",
+            "ckan.ico"
+        ],
+        "https://www.datos.gob.ar": [
+            "<meta name=\"generator\" content=\"ckan"
+        ],
+        "https://www.datosabiertos.gob.pa": [
+            "<meta name=\"generator\" content=\"ckan"
+        ],
+        "https://www.iatiregistry.org": [
+            "<meta name=\"generator\" content=\"ckan"
+        ],
+        "https://www.odaa.dk": [
+            "<span>Powered by</span>"
+        ],
+        "https://www.offenedaten.frankfurt.de": [
+            "<meta name=\"generator\" content=\"ckan",
+            "ckan.ico"
+        ],
+        "https://www.offenesdatenportal.de": [
+            "ckan-footer-logo",
+            "<meta name=\"generator\" content=\"ckan",
+            "ckan.ico"
+        ],
+        "https://www.opendata-hro.de": [
+            "ckan-footer-logo",
+            "<meta name=\"generator\" content=\"ckan"
+        ],
+        "https://www.opendata.dk": [
+            "<span>Powered by</span>"
+        ],
+        "https://www.opendata.hu": [
+            ">CKAN API</a>",
+            "ckan-footer-logo",
+            "<meta name=\"generator\" content=\"ckan",
+            "ckan.ico"
+        ],
+        "https://www.opendata.nhs.scot": [
+            "<a href=\"http://docs.ckan.org/en/2.8/api/\">CKAN API</a>",
+            ">CKAN API</a>",
+            "ckan-footer-logo",
+            "<meta name=\"generator\" content=\"ckan",
+            "ckan.ico"
+        ],
+        "https://www.opendataportal.at": [
+            "<a id=\"ckan_de\"",
+            "<a id=\"ckan_en\""
+        ],
+        "https://www.opengov-muenchen.de": [
+            "<meta name=\"generator\" content=\"ckan",
+            "ckan.ico",
+            "alt=\"CKAN\"",
+            "href=\"/fanstatic/ckanext-harvest"
+        ],
+        "https://www.opentourism.net": [
+            "<a href=\"http://docs.ckan.org/en/2.9/api/\">CKAN API</a>",
+            ">CKAN API</a>",
+            "ckan-footer-logo",
+            "<meta name=\"generator\" content=\"ckan",
+            "ckan.ico",
+            "alt=\"CKAN\""
+        ],
+        "https://www.resourcedata.org": [
+            "<meta name=\"generator\" content=\"ckan"
+        ],
+        "https://www.yorkopendata.org": [
+            "<span>Powered by</span>",
+            "alt=\"CKAN\""
+        ]
+    },
+    "OpenDataSoft": {
+        "https://www.boamp.fr": [
+            "BRAND_HOSTNAME: \"opendatasoft.com\"",
+            "ods.core.config",
+            "ods.minimal",
+            "ods.core",
+            "ods.core.form.directives"
+        ],
+        "https://www.bodacc.fr": [
+            "BRAND_HOSTNAME: \"opendatasoft.com\"",
+            "ods.core.config",
+            "ods.minimal",
+            "ods.core",
+            "ods.core.form.directives"
+        ],
+        "https://www.connectgh.com.au": [
+            "BRAND_HOSTNAME: \"opendatasoft.com\"",
+            "ods.core.config",
+            "ods.minimal",
+            "ods.core",
+            "ods.core.form.directives"
+        ],
+        "https://www.data.corsica": [
+            "BRAND_HOSTNAME: \"opendatasoft.com\"",
+            "ods.core.config",
+            "ods.minimal",
+            "ods.core",
+            "ods.core.form.directives"
+        ],
+        "https://www.data.gov.bh": [
+            "BRAND_HOSTNAME: \"opendatasoft.com\"",
+            "ods.core.config",
+            "ods.minimal",
+            "ods.core",
+            "ods.core.form.directives"
+        ],
+        "https://www.data.grigny91.fr": [
+            "BRAND_HOSTNAME: \"opendatasoft.com\"",
+            "ods.core.config",
+            "ods.minimal",
+            "ods.core",
+            "ods.core.form.directives"
+        ],
+        "https://www.daten.stadt.sg.ch": [
+            "BRAND_HOSTNAME: \"opendatasoft.com\"",
+            "ods.core.config",
+            "ods.minimal",
+            "ods.core",
+            "ods.core.form.directives"
+        ],
+        "https://www.fabriquenumeriquedupasse.fr": [
+            "BRAND_HOSTNAME: \"opendatasoft.com\"",
+            "ods.core.config",
+            "ods.minimal",
+            "ods.core",
+            "ods.core.form.directives"
+        ],
+        "https://www.geelongdataexchange.com.au": [
+            "BRAND_HOSTNAME: \"opendatasoft.com\"",
+            "ods.core.config",
+            "ods.minimal",
+            "ods.core",
+            "ods.core.form.directives"
+        ],
+        "https://www.herault-data.fr": [
+            "BRAND_HOSTNAME: \"opendatasoft.com\"",
+            "ods.core.config",
+            "ods.minimal",
+            "ods.core",
+            "ods.core.form.directives"
+        ],
+        "https://www.journal-officiel.gouv.fr": [
+            "BRAND_HOSTNAME: \"opendatasoft.com\"",
+            "ods.core.config",
+            "ods.minimal",
+            "ods.core",
+            "ods.core.form.directives"
+        ],
+        "https://www.odwb.be": [
+            "BRAND_HOSTNAME: \"opendatasoft.com\"",
+            "ods.core.config",
+            "ods.minimal",
+            "ods.core",
+            "ods.core.form.directives"
+        ],
+        "https://www.opendata-paysbasque.fr": [
+            "BRAND_HOSTNAME: \"opendatasoft.com\"",
+            "ods.core.config",
+            "ods.minimal",
+            "ods.core",
+            "ods.core.form.directives"
+        ],
+        "https://www.opendata.corsica": [
+            "BRAND_HOSTNAME: \"opendatasoft.com\"",
+            "ods.core.config",
+            "ods.minimal",
+            "ods.core",
+            "ods.core.form.directives"
+        ],
+        "https://www.opendata49.fr": [
+            "BRAND_HOSTNAME: \"opendatasoft.com\"",
+            "ods.core.config",
+            "ods.minimal",
+            "ods.core",
+            "ods.core.form.directives"
+        ],
+        "https://www.opendata56.fr": [
+            "BRAND_HOSTNAME: \"opendatasoft.com\"",
+            "ods.core.config",
+            "ods.minimal",
+            "ods.core",
+            "ods.core.form.directives"
+        ],
+        "https://www.projets-environnement.gouv.fr": [
+            "BRAND_HOSTNAME: \"opendatasoft.com\"",
+            "ods.core.config",
+            "ods.minimal",
+            "ods.core",
+            "ods.core.form.directives"
+        ]
+    },
+    "Socrata": {
+        "https://www.chattadata.org": [
+            "<!-- Start of socrata Zendesk Widget script -->",
+            "var socrata",
+            "window.socrata",
+            "<!--\n  Powered by Socrata",
+            "www.socrata.com\n  -->"
+        ],
+        "https://www.dallasopendata.com": [
+            "<!-- Start of socrata Zendesk Widget script -->",
+            "var socrata",
+            "window.socrata",
+            "<!--\n  Powered by Socrata",
+            "www.socrata.com\n  -->"
+        ],
+        "https://www.data.act.gov.au": [
+            "var socrata",
+            "window.socrata",
+            "<!--\n  Powered by Socrata",
+            "www.socrata.com\n  -->"
+        ],
+        "https://www.data.va.gov": [
+            "var socrata",
+            "window.socrata",
+            "<!--\n  Powered by Socrata",
+            "www.socrata.com\n  -->"
+        ],
+        "https://www.dati.friuliveneziagiulia.it": [
+            "var socrata",
+            "window.socrata",
+            "<!--\n  Powered by Socrata",
+            "www.socrata.com\n  -->"
+        ],
+        "https://www.dati.lombardia.it": [
+            "var socrata",
+            "window.socrata",
+            "<!--\n  Powered by Socrata",
+            "www.socrata.com\n  -->"
+        ],
+        "https://www.datos.gov.co": [
+            "var socrata",
+            "window.socrata",
+            "<!--\n  Powered by Socrata",
+            "www.socrata.com\n  -->"
+        ],
+        "https://www.healthdata.gov": [
+            "var socrata",
+            "window.socrata",
+            "<!--\n  Powered by Socrata",
+            "www.socrata.com\n  -->"
+        ]
+    }
+}

@@ -1,0 +1,9 @@
+url,active,validated,manually_checked_api,suspected_api,api_working,api_version,error_type
+https://data.deutschebahn.com,True,True,,CKAN,False,,['JSONDecodeError']
+https://data.oebb.at,True,True,,Unknown,,,
+https://data.overheid.nl/data,True,True,CKAN,CKAN,True,2.8.2,
+https://data.renfe.com,True,True,,CKAN,True,2.8.2,
+https://data.sbb.ch,True,True,,OpenDataSoft,True,"['v1.0', 'v2.0', 'v2.1']",
+https://data.sncf.com,True,True,,OpenDataSoft,True,"['v1.0', 'v2.0', 'v2.1']",
+https://opendata.infrabel.be,True,True,,OpenDataSoft,True,"['v1.0', 'v2.0', 'v2.1']",
+https://prorailnl.hub.arcgis.com,True,True,,Unknown,,,

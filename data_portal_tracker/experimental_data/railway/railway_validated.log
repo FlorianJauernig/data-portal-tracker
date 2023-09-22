@@ -1,0 +1,37 @@
+Skipping inactive portals...
+Portal 1/8: https://data.deutschebahn.com
+CKAN markers found
+CKAN API not working
+Portal 2/8: https://data.oebb.at
+Portal 3/8: https://data.overheid.nl/data
+CKAN portal was manually added, skipping search for markers
+CKAN API working
+Portal 4/8: https://data.renfe.com
+CKAN markers found
+CKAN API working
+Portal 5/8: https://data.sbb.ch
+OpenDataSoft markers found
+Opendatasoft API v2.x working
+Opendatasoft API v1.0 working
+Portal 6/8: https://data.sncf.com
+OpenDataSoft markers found
+Opendatasoft API v2.x working
+Opendatasoft API v1.0 working
+Portal 7/8: https://opendata.infrabel.be
+OpenDataSoft markers found
+Opendatasoft API v2.x working
+Opendatasoft API v1.0 working
+Portal 8/8: https://prorailnl.hub.arcgis.com
+Skipping inactive portals...
+
+Portals with detected CKAN markers: 2
+Portals with a manually added CKAN API endpoint: 1
+Portals with a working CKAN API: 2
+
+Portals with detected OpenDataSoft markers: 3
+Portals with a manually added OpenDataSoft API endpoint: 0
+Portals with a working OpenDataSoft API: 3
+
+Portals with detected Socrata markers: 0
+Portals with a manually added Socrata API endpoint: 0
+Portals with a working Socrata API: 0

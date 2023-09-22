@@ -1,0 +1,9 @@
+url,manually_checked_api,active
+https://data.deutschebahn.com,,True
+https://data.oebb.at,,True
+https://data.overheid.nl/data,CKAN,True
+https://data.renfe.com,,True
+https://data.sbb.ch,,True
+https://data.sncf.com,,True
+https://opendata.infrabel.be,,True
+https://prorailnl.hub.arcgis.com,,True

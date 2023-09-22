@@ -1,0 +1,16 @@
+{
+    "CKAN": {
+        "http://opendata.calstate.edu": [
+            ">CKAN API</a>",
+            "ckan-footer-logo",
+            "<meta name=\"generator\" content=\"ckan",
+            "ckan.ico"
+        ],
+        "https://data.ed.gov": [
+            "<meta name=\"generator\" content=\"ckan",
+            "ckan.ico"
+        ]
+    },
+    "OpenDataSoft": {},
+    "Socrata": {}
+}

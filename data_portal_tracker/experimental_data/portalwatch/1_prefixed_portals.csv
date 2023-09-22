@@ -1,0 +1,268 @@
+url,manually_checked_api,active,error_type
+apigobiernoabiertocatalog.valencia.es,CKAN,False,['HTTPS and HTTP requests failed']
+belohorizonte.azure-eastus-prod.socrata.com,Socrata,False,['HTTPS and HTTP requests failed']
+berkeley.demo.socrata.com,Socrata,False,['HTTPS and HTTP requests failed']
+bermuda.io,CKAN,False,['HTTPS and HTTP requests failed']
+bistrotdepays.opendatasoft.com,OpenDataSoft,False,['HTTPS and HTTP requests failed']
+bmgf.demo.socrata.com,Socrata,False,['HTTPS and HTTP requests failed']
+bristol.azure-westeurope-prod.socrata.com,Socrata,False,['HTTPS and HTTP requests failed']
+catalogo.datosabiertos.gob.ec,CKAN,False,['HTTPS and HTTP requests failed']
+catalogue.datalocale.fr,CKAN,False,['HTTPS and HTTP requests failed']
+cdph.data.ca.gov,Socrata,False,['HTTPS and HTTP requests failed']
+ckan.data.graz.gv.at,CKAN,False,['HTTPS and HTTP requests failed']
+ckan.data.ktn.gv.at,CKAN,False,['HTTPS and HTTP requests failed']
+ckan.gsi.go.jp,CKAN,False,['HTTPS and HTTP requests failed']
+ckan.odp.jig.jp,CKAN,False,['HTTPS and HTTP requests failed']
+ckanau.org,CKAN,False,['HTTPS and HTTP requests failed']
+dartportal.leeds.ac.uk,CKAN,False,['HTTPS and HTTP requests failed']
+data.aberdeencity.gov.uk,CKAN,False,['HTTPS and HTTP requests failed']
+data.act.gov.au,Socrata,False,['HTTPS and HTTP requests failed']
+data.amsterdamopendata.nl,CKAN,False,['HTTPS and HTTP requests failed']
+data.atf.gov,Socrata,False,['HTTPS and HTTP requests failed']
+data.cityofdeleon.org,Socrata,False,['HTTPS and HTTP requests failed']
+data.cityofnewyork.us,Socrata,False,['HTTPS and HTTP requests failed']
+data.cityofsantacruz.com,CKAN,False,['HTTPS and HTTP requests failed']
+data.cms.hhs.gov,Socrata,False,['HTTPS and HTTP requests failed']
+data.consumerfinance.gov,Socrata,False,['HTTPS and HTTP requests failed']
+data.dcpcsb.org,Socrata,False,['HTTPS and HTTP requests failed']
+data.gov.bf,CKAN,False,['HTTPS and HTTP requests failed']
+data.gov.hk/tc-data,CKAN,False,['HTTPS and HTTP requests failed']
+data.hdx.rwlabs.org,CKAN,False,['HTTPS and HTTP requests failed']
+data.illinois.gov/belleville,Socrata,False,['HTTPS and HTTP requests failed']
+data.illinois.gov/champaign,Socrata,False,['HTTPS and HTTP requests failed']
+data.illinois.gov/rockford,Socrata,False,['HTTPS and HTTP requests failed']
+data.murphytx.org,Socrata,False,['HTTPS and HTTP requests failed']
+data.ohouston.org,CKAN,False,['HTTPS and HTTP requests failed']
+data.opencolorado.org,CKAN,False,['HTTPS and HTTP requests failed']
+data.opendataportal.at,CKAN,False,['HTTPS and HTTP requests failed']
+data.openpolice.ru,CKAN,False,['HTTPS and HTTP requests failed']
+data.openva.com,CKAN,False,['HTTPS and HTTP requests failed']
+data.rio.rj.gov.br,CKAN,False,['HTTPS and HTTP requests failed']
+data.salzburgerland.com,CKAN,False,['HTTPS and HTTP requests failed']
+data.taxpayer.net,Socrata,False,['HTTPS and HTTP requests failed']
+data.upf.edu/en,CKAN,False,['HTTPS and HTTP requests failed']
+data.weatherfordtx.gov,Socrata,False,['HTTPS and HTTP requests failed']
+data.wellingtonfl.gov,Socrata,False,['HTTPS and HTTP requests failed']
+data.wokingham.gov.uk,Socrata,False,['HTTPS and HTTP requests failed']
+dataforjapan.org,CKAN,False,['HTTPS and HTTP requests failed']
+datagm.org.uk,CKAN,False,['HTTPS and HTTP requests failed']
+datameti.go.jp/data,CKAN,False,['HTTPS and HTTP requests failed']
+datapilot.american.edu,Socrata,False,['HTTPS and HTTP requests failed']
+daten.buergernetz.bz.it/de,CKAN,False,['HTTPS and HTTP requests failed']
+datos.argentina.gob.ar,CKAN,False,['HTTPS and HTTP requests failed']
+datospublicos.org,CKAN,False,['HTTPS and HTTP requests failed']
+donnees.ville.sherbrooke.qc.ca,CKAN,False,['HTTPS and HTTP requests failed']
+drdsi.jrc.ec.europa.eu,CKAN,False,['HTTPS and HTTP requests failed']
+exploredata.gov.ro,Socrata,False,['HTTPS and HTTP requests failed']
+gisdata.mn.gov,CKAN,False,['HTTPS and HTTP requests failed']
+hampton.demo.socrata.com,Socrata,False,['HTTPS and HTTP requests failed']
+healthmeasures.aspe.hhs.gov,Socrata,False,['HTTPS and HTTP requests failed']
+http://130.179.67.140,CKAN,True,
+http://catalog.data.ug,CKAN,True,
+http://ckan.data.linz.gv.at,CKAN,True,
+http://ckan.okfn.gr,CKAN,True,
+http://dados.recife.pe.gov.br,CKAN,True,
+http://data.oaklandnet.com,Socrata,True,
+http://data.sheffield.gov.uk,Socrata,True,
+http://data.southbendin.gov,Socrata,True,
+http://data.zagreb.hr,CKAN,True,
+http://datos.codeandomexico.org,CKAN,True,
+http://linkeddatacatalog.dws.informatik.uni-mannheim.de,CKAN,True,
+http://opendata.awt.be,CKAN,True,
+http://opendata.ayto-caceres.es,CKAN,True,
+http://opendata.caceres.es,CKAN,True,
+http://opendata.government.bg,CKAN,True,
+http://opendata.rubi.cat,Socrata,True,
+http://opendatareno.org,CKAN,True,
+http://reportcard.santamonicayouth.net,Socrata,True,
+http://suche.transparenz.hamburg.de:80,CKAN,True,
+http://www.daten.rlp.de,CKAN,True,
+http://www.datos.misiones.gov.ar,CKAN,True,
+http://www.nosdonnees.fr,CKAN,True,
+https://africaopendata.org,CKAN,True,
+https://annuario.comune.fi.it,CKAN,True,
+https://beta.avoindata.fi,CKAN,True,
+https://bronx.lehman.cuny.edu,Socrata,True,
+https://bythenumbers.sco.ca.gov,Socrata,True,
+https://catalog.data.gov,CKAN,True,
+https://catalogodatos.gub.uy,CKAN,True,
+https://ckan.publishing.service.gov.uk,CKAN,True,
+https://controllerdata.lacity.org,Socrata,True,
+https://dados.al.gov.br,CKAN,True,
+https://dados.gov.br,CKAN,True,
+https://dados.rs.gov.br,CKAN,True,
+https://dadosabertos.senado.gov.br,CKAN,True,
+https://danepubliczne.gov.pl,CKAN,True,
+https://data.acgov.org,Socrata,True,
+https://data.albanyny.gov,Socrata,True,
+https://data.austintexas.gov,Socrata,True,
+https://data.baltimorecity.gov,Socrata,True,
+https://data.boston.gov,CKAN,True,
+https://data.bris.ac.uk/data,CKAN,True,
+https://data.burlingtonvt.gov,Socrata,True,
+https://data.cdc.gov,Socrata,True,
+https://data.cityofchicago.org,Socrata,True,
+https://data.cityofmadison.com,Socrata,True,
+https://data.cityoftacoma.org,Socrata,True,
+https://data.colorado.gov,Socrata,True,
+https://data.ct.gov,Socrata,True,
+https://data.culvercity.org,Socrata,True,
+https://data.datamontana.us,Socrata,True,
+https://data.edinburghopendata.info,CKAN,True,
+https://data.edmonton.ca,Socrata,True,
+https://data.eindhoven.nl,OpenDataSoft,True,
+https://data.energystar.gov,Socrata,True,
+https://data.europa.eu/euodp/en/data,CKAN,True,
+https://data.glasgow.gov.uk,CKAN,True,
+https://data.go.id,CKAN,True,
+https://data.gov.au,CKAN,True,
+https://data.gov.gr,CKAN,True,
+https://data.gov.hr,CKAN,True,
+https://data.gov.ie,CKAN,True,
+https://data.gov.lv,CKAN,True,
+https://data.gov.md/ckan,CKAN,True,
+https://data.gov.ro,CKAN,True,
+https://data.gov.sk,CKAN,True,
+https://data.grcity.us,CKAN,True,
+https://data.hartford.gov,Socrata,True,
+https://data.hawaii.gov,Socrata,True,
+https://data.honolulu.gov,Socrata,True,
+https://data.houstontx.gov,CKAN,True,
+https://data.humdata.org,CKAN,True,
+https://data.iledefrance.fr,OpenDataSoft,True,
+https://data.illinois.gov,CKAN,True,
+https://data.kcmo.org,Socrata,True,
+https://data.kingcounty.gov,Socrata,True,
+https://data.kk.dk,CKAN,True,
+https://data.lexingtonky.gov,CKAN,True,
+https://data.london.gov.uk,CKAN,True,
+https://data.maryland.gov,Socrata,True,
+https://data.medicare.gov,Socrata,True,
+https://data.michigan.gov,Socrata,True,
+https://data.mo.gov,Socrata,True,
+https://data.montgomerycountymd.gov,Socrata,True,
+https://data.nfpa.org,Socrata,True,
+https://data.nhm.ac.uk,CKAN,True,
+https://data.nj.gov,Socrata,True,
+https://data.noaa.gov/dataset,CKAN,True,
+https://data.nola.gov,Socrata,True,
+https://data.nsw.gov.au/data,CKAN,True,
+https://data.ny.gov,Socrata,True,
+https://data.ok.gov,CKAN,True,
+https://data.opendataforum.info,CKAN,True,
+https://data.opendatasoft.com,OpenDataSoft,True,
+https://data.oregon.gov,Socrata,True,
+https://data.ottawa.ca,CKAN,True,
+https://data.overheid.nl/data,CKAN,True,
+https://data.providenceri.gov,Socrata,True,
+https://data.qld.gov.au,CKAN,True,
+https://data.raleighnc.gov,Socrata,True,
+https://data.redmond.gov,Socrata,True,
+https://data.sa.gov.au/data,CKAN,True,
+https://data.seattle.gov,Socrata,True,
+https://data.sfgov.org,Socrata,True,
+https://data.somervillema.gov,Socrata,True,
+https://data.stadt-zuerich.ch,CKAN,True,
+https://data.surrey.ca,CKAN,True,
+https://data.tainan.gov.tw,CKAN,True,
+https://data.undp.org,Socrata,True,
+https://data.vermont.gov,Socrata,True,
+https://data.wa.gov,Socrata,True,
+https://data.winnipeg.ca,Socrata,True,
+https://data.wu.ac.at/portal,CKAN,True,
+https://data.yorkopendata.org,CKAN,True,
+https://datacatalog.cookcountyil.gov,Socrata,True,
+https://datahub.io,CKAN,True,
+https://datamx.io,CKAN,True,
+https://dataratp.opendatasoft.com,OpenDataSoft,True,
+https://dati.lazio.it/catalog/it,CKAN,True,
+https://dati.lombardia.it,Socrata,True,
+https://dati.toscana.it,CKAN,True,
+https://dati.trentino.it,CKAN,True,
+https://dati.veneto.it,CKAN,True,
+https://datos.alcobendas.org,CKAN,True,
+https://datosabiertos.ayto-arganda.es,CKAN,True,
+https://datosabiertos.malaga.eu,CKAN,True,
+https://datosabiertos.rivasciudad.es,CKAN,True,
+https://donnees.ville.montreal.qc.ca,CKAN,True,
+https://dot.demo.socrata.com,Socrata,True,
+https://edx.netl.doe.gov,CKAN,True,
+https://finances.worldbank.org,Socrata,True,
+https://gavaobert.gavaciutat.cat,Socrata,True,
+https://health.data.ny.gov,Socrata,True,
+https://healthdata.nj.gov,Socrata,True,
+https://hubofdata.ru,CKAN,True,
+https://iatiregistry.org,CKAN,True,
+https://inforegio.azure-westeurope-prod.socrata.com,Socrata,True,
+https://leedsdatamill.org,CKAN,True,
+https://open.canada.ca/data,CKAN,True,
+https://open.whitehouse.gov,Socrata,True,
+https://opendata.admin.ch,CKAN,True,
+https://opendata.aragon.es/catalogo,CKAN,True,
+https://opendata.bayern.de,CKAN,True,
+https://opendata.bristol.gov.uk,OpenDataSoft,True,
+https://opendata.brussels.be,OpenDataSoft,True,
+https://opendata.comune.bari.it,CKAN,True,
+https://opendata.hu,CKAN,True,
+https://opendata.lasvegasnevada.gov,Socrata,True,
+https://opendata.paris.fr,OpenDataSoft,True,
+https://opendata.paris.fr.opendatasoft.com,OpenDataSoft,True,
+https://opendata.socrata.com,Socrata,True,
+https://opendata.swiss,CKAN,True,
+https://opendata.terrassa.cat,Socrata,True,
+https://opendatacanarias.es/datos,CKAN,True,
+https://opendatadc.org,CKAN,True,
+https://opingogn.is,CKAN,True,
+https://performance.smcgov.org,Socrata,True,
+https://performance.westsussex.gov.uk,Socrata,True,
+https://public.opendatasoft.com,OpenDataSoft,True,
+https://publicdata.eu,CKAN,True,
+https://rdw.azure-westeurope-prod.socrata.com,Socrata,True,
+https://stat.cityofgainesville.org,Socrata,True,
+https://tourisme62.opendatasoft.com,OpenDataSoft,True,
+https://transparenz.karlsruhe.de,CKAN,True,
+https://www.chattadata.org,Socrata,True,
+https://www.civicdata.io,CKAN,True,
+https://www.dallasopendata.com,Socrata,True,
+https://www.data.gv.at/katalog,CKAN,True,
+https://www.data.vic.gov.au,CKAN,True,
+https://www.dati.friuliveneziagiulia.it,Socrata,True,
+https://www.hri.fi,CKAN,True,
+https://www.odaa.dk,CKAN,True,
+https://www.opendata-hro.de,CKAN,True,
+https://www.opendata.go.ke,Socrata,True,
+https://www.opendatanyc.com,Socrata,True,
+https://www.opendataphilly.org,CKAN,True,
+https://www.opengov-muenchen.de,CKAN,True,
+hub.datanorthyorkshire.org,CKAN,False,['HTTPS and HTTP requests failed']
+irs.demo.socrata.com,Socrata,False,['HTTPS and HTTP requests failed']
+nats.demo.socrata.com/login,Socrata,False,['HTTPS and HTTP requests failed']
+nycopendata.socrata.com,Socrata,False,['HTTPS and HTTP requests failed']
+offenedaten.de,CKAN,False,['HTTPS and HTTP requests failed']
+open.nrw/api,CKAN,False,['HTTPS and HTTP requests failed']
+opendata.cnmc.es,CKAN,False,['HTTPS and HTTP requests failed']
+opendata.go.tz,CKAN,False,['HTTPS and HTTP requests failed']
+opendata.lisra.jp,CKAN,False,['HTTPS and HTTP requests failed']
+opendata.opennorth.se,CKAN,False,['HTTPS and HTTP requests failed']
+opendatagortynia.gr,CKAN,False,['HTTPS and HTTP requests failed']
+opendatahub.gr,CKAN,False,['HTTPS and HTTP requests failed']
+opengov.es,CKAN,False,['HTTPS and HTTP requests failed']
+openresearchdata.ch,CKAN,False,['HTTPS and HTTP requests failed']
+pod.opendatasoft.com,OpenDataSoft,False,['HTTPS and HTTP requests failed']
+portal.openbelgium.be,CKAN,False,['HTTPS and HTTP requests failed']
+rotterdamopendata.nl,CKAN,False,['HTTPS and HTTP requests failed']
+rs.ckan.net,CKAN,False,['HTTPS and HTTP requests failed']
+scisf.opendatasoft.com,OpenDataSoft,False,['HTTPS and HTTP requests failed']
+search.geothermaldata.org,CKAN,False,['HTTPS and HTTP requests failed']
+tourisme04.opendatasoft.com,OpenDataSoft,False,['HTTPS and HTTP requests failed']
+udct-data.aigid.jp,CKAN,False,['HTTPS and HTTP requests failed']
+westsacramento.demo.socrata.com,Socrata,False,['HTTPS and HTTP requests failed']
+wfp.demo.socrata.com/login,Socrata,False,['HTTPS and HTTP requests failed']
+www.criminalytics.org,Socrata,False,['HTTPS and HTTP requests failed']
+www.data.go.jp/data,CKAN,False,['HTTPS and HTTP requests failed']
+www.datagm.org.uk,CKAN,False,['HTTPS and HTTP requests failed']
+www.govdata.de/ckan,CKAN,False,['HTTPS and HTTP requests failed']
+www.metrochicagodata.com,Socrata,False,['HTTPS and HTTP requests failed']
+www.offene-daten.me,CKAN,False,['HTTPS and HTTP requests failed']
+www.opendata.provincia.roma.it,CKAN,False,['HTTPS and HTTP requests failed']
+www.opendatamalta.org/ckan,CKAN,False,['HTTPS and HTTP requests failed']

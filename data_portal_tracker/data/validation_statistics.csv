@@ -1,0 +1,7 @@
+file,total,active,inactive,validated,unvalidated,subpage_endpoints,no_markers,ckan_suspected,ckan_working,opendatasoft_suspected,opendatasoft_working,socrata_suspected,socrata_working,timestamp
+data/5_validated_portals_retry.csv,5539,4380,1159,4377,1162,4,3609,276,233,362,356,130,128,2023-07-31 19:28:07.676967
+experimental_data/www/with_www_validated.csv,1193,1193,0,1180,13,0,1126,29,20,17,16,8,8,2023-08-01 00:37:52.636677
+experimental_data/www/www_removed_validated.csv,1193,1193,0,992,201,0,956,26,17,6,6,4,4,2023-08-01 00:49:28.683073
+experimental_data/railway/railway_validated.csv,8,8,0,8,0,1,2,3,2,3,3,0,0,2023-08-01 01:07:45.890909
+experimental_data/universities/universities_validated.csv,9,9,0,8,1,1,6,2,2,0,0,0,0,2023-08-01 01:09:59.786191
+experimental_data/portalwatch/2_validated_portals.csv,267,177,90,176,91,267,0,97,61,10,9,69,46,2023-09-11 18:43:57.437129
