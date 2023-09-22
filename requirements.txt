@@ -1,0 +1,8 @@
+pandas
+urllib
+pymongo
+ipython
+serpapi
+requests
+python-dotenv
+beautifulsoup4
