@@ -1,0 +1,12 @@
+PATH="../"
+
+ARCHIVER_BASE_URL="https://archiver.ai.wu.ac.at/"
+ARCHIVER_PASSWORD="_password_"
+
+LOCAL_MONGODB_URL="mongodb://_user_:_password_@_host_:_port_/"
+LOCAL_MONGODB_NAME="_name_"
+
+SERVER_MONGODB_URL_1="mongodb://_user_:_password_@_host_:_port_/"
+SERVER_MONGODB_URL_2="mongodb://_user_:_password_@_host_:_port_/"
+SERVER_MONGODB_URL_3="mongodb://_user_:_password_@_host_:_port_/"
+SERVER_MONGODB_NAME="_name_"
