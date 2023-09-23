@@ -94,13 +94,9 @@ The tool is avaiable under the [CC-BY 4.0 license](http://creativecommons.org/li
 
 ## Authors
 
-- [Daniil Dobriy](https://github.com/semantisch) (Institute for Data, Process and Knowledge Management - WU Vienna) - created the tool.
+- [@semantisch](https://github.com/semantisch) - created the tool.
 
-*[Institute for Data, Process and Knowledge Management](https://www.wu.ac.at/en/dpkm/)*, *[Vienna University of Economics and Business](https://www.wu.ac.at)*.
-
-- [Florian Jauernig](https://github.com/FlorianJauernig) - adapted code and readme for use with the _data\_portal\_tracker_ project.
+- [@FlorianJauernig](https://github.com/FlorianJauernig) - adapted code and readme for use with the _data\_portal\_tracker_ project.
 
 ## Acknowledgements
-- Martin Beno and Alexandra Hager
-- [Distributed Knowledge Graphs COST Action](https://cost-dkg.eu)
 - [Diátaxis: A systematic framework for technical documentation authoring](https://diataxis.fr)
